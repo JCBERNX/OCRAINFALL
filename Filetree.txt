@@ -1,0 +1,6 @@
+OCRAINFALL/
+│
+├── Hot97Oakland.f90            # Main Fortran source code
+├── OAKLAND_MONTHLY.csv         # Monthly precipitation data (1979–2011)
+├── README.txt                  # Documentation with all stats and instructions
+├── LICENSE.txt                 # MIT license in plain text
